@@ -1,2 +1,2 @@
 # kumi_labs-Ecom
-converted figma e-com webapp prototype provided by kumi labs 
+converted e-com webapp figma prototype provided by kumi labs 
