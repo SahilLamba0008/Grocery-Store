@@ -1,0 +1,15 @@
+@import url("../src/Styles/commonClasses.css");
+@import url("../src/Styles/variable.css");
+
+body {
+  margin: 0;
+  font-family: "Muli";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #ffe475;
+  --secondary-color: #5da9e9;
+  --button-secondary: #40d589;
+  --text-primary: #100e3a;
+  --text-secondary: #b6bac3;
+  --text-tertiary: #ffffff;
+  --sidebar-text: #737d94;
+  --scrollbar-bg: #ededed;
+}
+@font-face {
+  font-family: "Mortise";
+  src: url(../fonts/mortise-regular.otf);
+}
+@font-face {
+  font-family: "Muli";
+  src: url(../fonts/Muli.ttf);
+}
